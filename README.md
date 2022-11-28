@@ -2,7 +2,7 @@
 
 ## <h3 align="center"> About Me </h3>
 
-📖 I’m currently learning HTML, CSS and JavaScript
+📖 I’m currently learning HTML, CSS and JavaScript.
 
 
 
