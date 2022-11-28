@@ -26,4 +26,4 @@
   ##
   
   
-   ![Snake animation](https://github.com/denismiranda/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/denismiranda/denismiranda/blob/output/github-contribution-grid-snake.svg)
