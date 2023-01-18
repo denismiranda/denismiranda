@@ -2,7 +2,7 @@
 
 ## <h3 align="center"> About Me </h3>
 
-📖 I’m currently learning HTML, CSS and JavaScript.
+- 📖 I’m currently learning HTML, CSS and JavaScript.
 
 
 
@@ -14,7 +14,7 @@
   <img height="180rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=denismiranda&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-   ##
+  ##
 
   <h3 align="center"> 🚀 Languages and Tools: </h3>
   <div style="display: inline_block" align="center"><br>
@@ -23,7 +23,7 @@
     <img align="center" alt="denismiranda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
   
-  ##
+ ##
   
   
-   ![Snake animation](https://github.com/denismiranda/denismiranda/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/denismiranda/denismiranda/blob/output/github-contribution-grid-snake.svg)
